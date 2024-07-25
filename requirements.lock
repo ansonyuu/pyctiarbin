@@ -212,6 +212,10 @@ pydantic-core==2.20.1
 pygments==2.18.0
     # via ipython
     # via nbconvert
+pymssql==2.3.0
+    # via pyctiarbin
+pyodbc==5.1.0
+    # via pyctiarbin
 pytest==8.2.2
     # via pyctiarbin
 python-dateutil==2.9.0.post0

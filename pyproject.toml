@@ -12,6 +12,8 @@ dependencies = [
     "notebook>=7.2.1",
     "influxdb3-python>=0.7.0",
     "pandas>=2.0.3",
+    "pymssql>=2.3.0",
+    "pyodbc>=5.1.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
